@@ -76,7 +76,7 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+    subtitle: Personal Biography
     title: NaCl
   tiles:
     enable: yes
@@ -87,9 +87,9 @@ params:
         title: About Me
         url: blogs/bio
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Stocks
+        title: Risk Return
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
