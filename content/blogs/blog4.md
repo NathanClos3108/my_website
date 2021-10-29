@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:42:51-05:00"
 description: this is a decritpion
 draft: false
-image: pic07.jpg
+image: kitesurf.png
 keywords: ""
 slug: bio
 title: Nathan's Bio
