@@ -80,11 +80,12 @@ params:
     title: Forty
   tiles:
     enable: yes
+    #This is the area to change all of the squares 
     showcase:
       - image: nathan.png
         subtitle: Short Biography 
         title: About Me
-        url: blogs/aliquam
+        url: blogs/bio
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
